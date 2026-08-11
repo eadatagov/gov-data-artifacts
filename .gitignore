@@ -1,0 +1,25 @@
+# Credenciales y secretos — NUNCA en este repositorio
+*.env
+*credentials*
+*.pem
+*.key
+secrets/
+
+# Dumps y exports con datos personales o sensibles
+*.csv
+*.xlsx
+!glossary/**/*.csv
+dumps/
+exports/
+
+# Archivos temporales de perfilado de datos
+profiling_*
+*_profiling.*
+*.tmp
+
+# Archivos de trabajo de auditores externos (área de tránsito, no versionar)
+auditor-workspace/
+
+# Basura habitual de sistema operativo y editores
+.DS_Store
+*~
