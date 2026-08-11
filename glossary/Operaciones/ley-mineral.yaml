@@ -1,0 +1,16 @@
+nombre: Ley mineral
+definicion_corta: >
+  Concentración de mineral valioso presente en una tonelada de material extraído, expresada en la unidad de medida del mineral objetivo.
+definicion_larga: >
+  La ley mineral (grade, en literatura anglosajona) es la medida de concentración de un mineral de interés económico dentro del material
+  extraído de una operación minera. Se expresa típicamente en gramos por tonelada (g/t) para metales preciosos, o en porcentaje (%) para metales
+  base. Es un insumo crítico para la planificación de mina, el cálculo de reservas y la evaluación económica de un yacimiento.
+sinonimos:
+  - grade
+  - ley de mineral
+  - tenor
+dominio: operaciones
+unidad_medida: "g/t (oro, plata) o % (cobre, otros metales base)"
+dueno: Ricardo Palma
+estado: propuesto
+fecha_vigencia: null
