@@ -9,7 +9,7 @@ sinonimos:
   - HH
   - man-hours
 dominio: rrhh
-unidad_medida: "horas (HH)"
+unidad_medida: "horas-hombre (HH)"
 dueno: Carla Mendoza
 estado: propuesto
 fecha_vigencia: null
