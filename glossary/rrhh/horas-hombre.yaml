@@ -1,0 +1,15 @@
+nombre: Horas-hombre (HH)
+definicion_corta: >
+  Unidad de medida de productividad laboral que representa el trabajo de una persona durante una hora.
+definicion_larga: >
+  Las horas-hombre (HH) son la unidad estándar para medir el esfuerzo laboral en operaciones mineras, usada tanto para reportar
+  productividad como para calcular indicadores de seguridad (horas- hombre trabajadas sin incidentes). Se calcula como la suma de horas
+  efectivamente trabajadas por todos los colaboradores en un periodo y área determinados.
+sinonimos:
+  - HH
+  - man-hours
+dominio: rrhh
+unidad_medida: "horas"
+dueno: Carla Mendoza
+estado: propuesto
+fecha_vigencia: null
