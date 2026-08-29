@@ -1,0 +1,20 @@
+nombre: Supervisor de Turno
+definicion_corta: >
+  Rol responsable de coordinar al personal y las operaciones de un turno
+  específico, asegurando el cumplimiento de metas de producción y
+  protocolos de seguridad durante ese periodo.
+definicion_larga: >
+  El Supervisor de Turno es el responsable operativo directo durante un
+  turno de trabajo (día, tarde o noche) en una unidad minera. Coordina al
+  personal asignado, verifica el cumplimiento de protocolos de seguridad,
+  reporta incidentes y novedades al cierre del turno, y es el punto de
+  escalamiento inmediato ante cualquier desviación operativa. Reporta
+  jerárquicamente al Jefe de Guardia u homólogo según la estructura de
+  cada unidad.
+sinonimos:
+  - jefe de turno
+  - shift supervisor
+dominio: rrhh
+dueno: Carla Mendoza
+estado: propuesto
+fecha_vigencia: null
