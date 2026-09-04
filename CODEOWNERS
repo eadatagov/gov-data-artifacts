@@ -1,0 +1,9 @@
+# CODEOWNERS — gov-data-artifacts
+# Cada línea: patrón de ruta → quién debe aprobar
+
+glossary/rrhh/           @carla-mendoza-amc
+glossary/operaciones/    @ricardo-palma-amc
+glossary/mantenimiento/  @ricardo-palma-amc
+dq-rules/                @maria-torres-tdp
+policies/                @julio-ancieta-amc
+ai-artifacts/            @julio-ancieta-amc @maria-torres-tdp
